@@ -1,0 +1,13 @@
+prod_cd,prod_nm,prod_tp,unit_tp,common_unit_type
+1,plum tomato,produce,1,1
+2,plum tomato,produce,2,1
+3,beef tomato,produce,1,1
+4,beef tomato,produce,2,1
+5,idaho potato,produce,1,1
+6,fingerling potato,produce,1,1
+7,yellow potato,produce,1,1
+8,"beef, usda prime",meats,1,1
+9,"beef, usda choice",meats,1,1
+10,"beef, usda select",meats,1,1
+11,"apples, mcintosh",produce,1,1
+12,"apples, mcintosh",produce,2,1
